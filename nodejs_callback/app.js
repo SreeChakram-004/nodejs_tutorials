@@ -1,12 +1,12 @@
 function App(callback){
     callback();
-    console.log('started here');
-}
+    console.log('from first component');
+};
 
 App(function (){
-    console.log('invoked here success');
+    console.log('invoked here');
 });
 
 //output
-//invoked here success 
-//started here
+//invoked here  
+//from first component
