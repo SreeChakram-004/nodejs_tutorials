@@ -3,7 +3,7 @@ const router = express.Router();
 
 
 router.get("/",(req,res)=>{
-    res.send("Users list");
+    res.send("Users lists");
 })
 
 router.get("/new",(req,res)=>{
