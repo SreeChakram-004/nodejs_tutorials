@@ -1,6 +1,6 @@
 const person = {
-    firstname: 'Siri',
-    lastname: 'Doe', 
+    firstname: 'siri',
+    lastname: 'doe', 
     greet : function (){
        return 'Hey'+' '+this.firstname+' '+this.lastname
     }
@@ -9,7 +9,7 @@ const person = {
 const sonu = Object.create(person);
       sonu.firstname='Sonu';
       sonu.lastname='Doe';
-
+      
 const rita = Object.create(person);
       rita.firstname='Rita';
       rita.lastname='Doe';

@@ -1,0 +1,44 @@
+[
+    {
+    "id":1,
+    "name":"narendra",
+    "company":"Avyata Pvt Ltd",
+    "role":"founder"
+ },
+ {
+   "id":2,
+   "name":"nagi reddy",
+   "company":"Avyata Pvt Ltd",
+   "role":"senior frontend developer"
+},
+{
+    "id":3,
+    "name":"santosh",
+    "company":"Avyata Pvt Ltd",
+    "role":"senior backend developer"
+ },
+ {
+    "id":5, 
+    "name":"sree chakram",
+    "company":"Avyata Pvt Ltd",
+    "role": "full stack developer"
+ },
+ {
+    "id":6, 
+    "name":"saran",
+    "company":"Avyata Pvt Ltd",
+    "role": "frontend developer"
+ },
+ {
+    "id":4, 
+    "name":"roja",
+    "company":"Avyata Pvt Ltd",
+    "role": "tester & frontend developer"
+ },
+ {
+    "id":7, 
+    "name":"uday kumar",
+    "company":"Avyata Pvt Ltd",
+    "role": "react native developer"
+ }
+]
