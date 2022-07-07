@@ -14,8 +14,8 @@ app.use('/',routings);
 //routes
 app.get('/',(req,res)=>{
     console.log('[TEST]!');
-    res.send('Hello from page...')
-})
+    res.send('Hello from page....');
+});
 
 
 //listening port
